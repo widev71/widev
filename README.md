@@ -10,7 +10,7 @@
 ## Run Locally
 Go to the project directory
 ```bash
-  cd widevforto
+  cd WiDev
 ```
 Install dependencies
 ```bash
